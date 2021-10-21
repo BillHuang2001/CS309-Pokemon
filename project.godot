@@ -23,6 +23,10 @@ _global_script_class_icons={
 config/name="CS309-Pokemon"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/height=763
+
 [gdnative]
 
 singletons=[ "res://addons/godot-git-plugin/git_api.gdnlib" ]

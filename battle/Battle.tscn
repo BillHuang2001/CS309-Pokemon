@@ -11,9 +11,10 @@ script = ExtResource( 1 )
 
 [node name="Background" type="TextureRect" parent="."]
 margin_right = 1024.0
-margin_bottom = 600.0
+margin_bottom = 576.0
 texture = ExtResource( 3 )
 expand = true
+stretch_mode = 5
 __meta__ = {
 "_edit_use_anchors_": false
 }
