@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/helditem.png-ab5c3c33462a423fabdcedc226f95e62.stex"
+path="res://.import/helditem.png-49498792fb6a4e1a0409d57507436d93.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/道具类/道具/helditem.png"
-dest_files=[ "res://.import/helditem.png-ab5c3c33462a423fabdcedc226f95e62.stex" ]
+source_file="res://assets/Battle/Items/helditem.png"
+dest_files=[ "res://.import/helditem.png-49498792fb6a4e1a0409d57507436d93.stex" ]
 
 [params]
 

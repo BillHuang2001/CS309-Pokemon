@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/3Gbacks.png-3b92a93646f3b03e07e37928192ec936.stex"
+path="res://.import/3Gbacks.png-25eb555338093cf48b214f65ee645ad0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/PM类/战斗/36/3Gbacks.png"
-dest_files=[ "res://.import/3Gbacks.png-3b92a93646f3b03e07e37928192ec936.stex" ]
+source_file="res://assets/Battle/Sprite/36/3Gbacks.png"
+dest_files=[ "res://.import/3Gbacks.png-25eb555338093cf48b214f65ee645ad0.stex" ]
 
 [params]
 

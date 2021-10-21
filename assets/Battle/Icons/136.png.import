@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/136.png-f4a9f650abf4bfc2e32fe3a4170b14f8.stex"
+path="res://.import/136.png-7a0a4356cac94a148215b19dd1d406d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/PM类/图标/136.png"
-dest_files=[ "res://.import/136.png-f4a9f650abf4bfc2e32fe3a4170b14f8.stex" ]
+source_file="res://assets/Battle/Icons/136.png"
+dest_files=[ "res://.import/136.png-7a0a4356cac94a148215b19dd1d406d0.stex" ]
 
 [params]
 

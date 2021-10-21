@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DPbms.png-7673bbcb9fd387737fab73c7edcf0189.stex"
+path="res://.import/DPbms.png-48e41b35b7dbaed9ef7ba748217f71d4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/PM类/战斗/47/DPbms.png"
-dest_files=[ "res://.import/DPbms.png-7673bbcb9fd387737fab73c7edcf0189.stex" ]
+source_file="res://assets/Battle/Sprite/47/DPbms.png"
+dest_files=[ "res://.import/DPbms.png-48e41b35b7dbaed9ef7ba748217f71d4.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/backs.png-72594673da80f2f5c0bc92e2646d5e3a.stex"
+path="res://.import/backs.png-75c48bdd4ebfa05a025bcb28cf2ecaa5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/PM类/战斗/19/backs.png"
-dest_files=[ "res://.import/backs.png-72594673da80f2f5c0bc92e2646d5e3a.stex" ]
+source_file="res://assets/Battle/Sprite/19/backs.png"
+dest_files=[ "res://.import/backs.png-75c48bdd4ebfa05a025bcb28cf2ecaa5.stex" ]
 
 [params]
 

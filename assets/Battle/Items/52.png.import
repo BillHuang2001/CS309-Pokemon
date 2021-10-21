@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/52.png-517fe32d5e082568ec59ce0677f411a1.stex"
+path="res://.import/52.png-54714c99a486fb96c4d534bf907668cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/道具类/道具/52.png"
-dest_files=[ "res://.import/52.png-517fe32d5e082568ec59ce0677f411a1.stex" ]
+source_file="res://assets/Battle/Items/52.png"
+dest_files=[ "res://.import/52.png-54714c99a486fb96c4d534bf907668cf.stex" ]
 
 [params]
 

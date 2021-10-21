@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RFLGs.png-a6d6a3913ab41cea1ce45ba73cb42e59.stex"
+path="res://.import/RFLGs.png-c4b79b18e2919ee0361efd79e9959678.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Battle/PM类/战斗/49/RFLGs.png"
-dest_files=[ "res://.import/RFLGs.png-a6d6a3913ab41cea1ce45ba73cb42e59.stex" ]
+source_file="res://assets/Battle/Sprite/49/RFLGs.png"
+dest_files=[ "res://.import/RFLGs.png-c4b79b18e2919ee0361efd79e9959678.stex" ]
 
 [params]
 
