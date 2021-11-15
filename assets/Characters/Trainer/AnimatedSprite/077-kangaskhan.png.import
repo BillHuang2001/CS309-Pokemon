@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/077-kangaskhan.png-63f223d90bec7c2df5422778ae697c22.stex"
+path="res://.import/077-kangaskhan.png-26ec941e72eaaabb51f144645f546613.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/077-kangaskhan.png"
-dest_files=[ "res://.import/077-kangaskhan.png-63f223d90bec7c2df5422778ae697c22.stex" ]
+dest_files=[ "res://.import/077-kangaskhan.png-26ec941e72eaaabb51f144645f546613.stex" ]
 
 [params]
 

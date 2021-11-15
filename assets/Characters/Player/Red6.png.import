@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Red6.png-a85c5ba71f22ad6966da0c049ec02151.stex"
+path="res://.import/Red6.png-77519527ad80dae91deb331bb5e3d9a1.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Player/Red6.png"
-dest_files=[ "res://.import/Red6.png-a85c5ba71f22ad6966da0c049ec02151.stex" ]
+dest_files=[ "res://.import/Red6.png-77519527ad80dae91deb331bb5e3d9a1.stex" ]
 
 [params]
 

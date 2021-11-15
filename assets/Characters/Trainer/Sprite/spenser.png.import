@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spenser.png-a0e72f3aec03ff168de106389de2d1c2.stex"
+path="res://.import/spenser.png-c5321fc0f76b3d3789e5f4fee412bf4e.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/spenser.png"
-dest_files=[ "res://.import/spenser.png-a0e72f3aec03ff168de106389de2d1c2.stex" ]
+dest_files=[ "res://.import/spenser.png-c5321fc0f76b3d3789e5f4fee412bf4e.stex" ]
 
 [params]
 

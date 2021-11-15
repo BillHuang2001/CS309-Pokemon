@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ninjaboy.png-31f4a8a2bc7f58c0d55d3455b2810c6a.stex"
+path="res://.import/ninjaboy.png-208649d57ae4fcc451194d161b713f35.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/ninjaboy.png"
-dest_files=[ "res://.import/ninjaboy.png-31f4a8a2bc7f58c0d55d3455b2810c6a.stex" ]
+dest_files=[ "res://.import/ninjaboy.png-208649d57ae4fcc451194d161b713f35.stex" ]
 
 [params]
 

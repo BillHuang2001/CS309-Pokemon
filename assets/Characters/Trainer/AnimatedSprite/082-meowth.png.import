@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/082-meowth.png-244eff5c903178cc394353408210e7bf.stex"
+path="res://.import/082-meowth.png-b2b2976c3274f49317a67816bcb501b7.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/082-meowth.png"
-dest_files=[ "res://.import/082-meowth.png-244eff5c903178cc394353408210e7bf.stex" ]
+dest_files=[ "res://.import/082-meowth.png-b2b2976c3274f49317a67816bcb501b7.stex" ]
 
 [params]
 

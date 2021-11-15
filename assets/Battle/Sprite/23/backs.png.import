@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/backs.png-000b1e2f8299c61c7527e343cce22c2d.stex"
+path="res://.import/backs.png-f1304306945692ea9f7f62db168b6d0f.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Sprite/23/backs.png"
-dest_files=[ "res://.import/backs.png-000b1e2f8299c61c7527e343cce22c2d.stex" ]
+dest_files=[ "res://.import/backs.png-f1304306945692ea9f7f62db168b6d0f.stex" ]
 
 [params]
 

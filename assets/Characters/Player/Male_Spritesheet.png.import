@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Male_Spritesheet.png-5d8fd25d882702b594c5a826303cf103.stex"
+path="res://.import/Male_Spritesheet.png-a2d7216e656d08002f8ece84a7372a9d.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Player/Male_Spritesheet.png"
-dest_files=[ "res://.import/Male_Spritesheet.png-5d8fd25d882702b594c5a826303cf103.stex" ]
+dest_files=[ "res://.import/Male_Spritesheet.png-a2d7216e656d08002f8ece84a7372a9d.stex" ]
 
 [params]
 

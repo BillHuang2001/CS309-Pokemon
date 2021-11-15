@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/045-biker.png-44b0940697a8c390dc16a13852236bee.stex"
+path="res://.import/045-biker.png-cc5c26ef9884c278baab2b9fd4a820c4.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/045-biker.png"
-dest_files=[ "res://.import/045-biker.png-44b0940697a8c390dc16a13852236bee.stex" ]
+dest_files=[ "res://.import/045-biker.png-cc5c26ef9884c278baab2b9fd4a820c4.stex" ]
 
 [params]
 

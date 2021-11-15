@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/juan.png-e5624cc9befeca779cefa16933c58656.stex"
+path="res://.import/juan.png-f07b9608941682c1897a02cadda907e0.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/juan.png"
-dest_files=[ "res://.import/juan.png-e5624cc9befeca779cefa16933c58656.stex" ]
+dest_files=[ "res://.import/juan.png-f07b9608941682c1897a02cadda907e0.stex" ]
 
 [params]
 

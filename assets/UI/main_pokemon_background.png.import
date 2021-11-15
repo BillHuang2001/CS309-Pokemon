@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/main_pokemon_background.png-59a0e58174d3a2821b404fd9d0a87aeb.stex"
+path="res://.import/main_pokemon_background.png-e5b94a5a45b5cea8ddb820bfa9da9d6a.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/UI/main_pokemon_background.png"
-dest_files=[ "res://.import/main_pokemon_background.png-59a0e58174d3a2821b404fd9d0a87aeb.stex" ]
+dest_files=[ "res://.import/main_pokemon_background.png-e5b94a5a45b5cea8ddb820bfa9da9d6a.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/108.png-7334c04014012442f1df7fbcf6213ac7.stex"
+path="res://.import/108.png-c15119daa8eac63b7c9659e745a4fb78.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Pokemon/Sprite/108.png"
-dest_files=[ "res://.import/108.png-7334c04014012442f1df7fbcf6213ac7.stex" ]
+dest_files=[ "res://.import/108.png-c15119daa8eac63b7c9659e745a4fb78.stex" ]
 
 [params]
 

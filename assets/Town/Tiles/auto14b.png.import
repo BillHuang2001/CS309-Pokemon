@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/auto14b.png-79dfb6ae852d4ba255e805b46d48b985.stex"
+path="res://.import/auto14b.png-7c278776c68ac15a8a0e606c3283b10a.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Tiles/auto14b.png"
-dest_files=[ "res://.import/auto14b.png-79dfb6ae852d4ba255e805b46d48b985.stex" ]
+dest_files=[ "res://.import/auto14b.png-7c278776c68ac15a8a0e606c3283b10a.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flannery.png-25e64b38283b9efeba17143cd7f172be.stex"
+path="res://.import/flannery.png-7234bd25ab46ed0da6f9cd22c6d01d10.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/flannery.png"
-dest_files=[ "res://.import/flannery.png-25e64b38283b9efeba17143cd7f172be.stex" ]
+dest_files=[ "res://.import/flannery.png-7234bd25ab46ed0da6f9cd22c6d01d10.stex" ]
 
 [params]
 

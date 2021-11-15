@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pokemonrangerf.png-f4e089d0ae4d78cde2c222a925c293ec.stex"
+path="res://.import/pokemonrangerf.png-49e640715e142799f1c9913997e771f7.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/pokemonrangerf.png"
-dest_files=[ "res://.import/pokemonrangerf.png-f4e089d0ae4d78cde2c222a925c293ec.stex" ]
+dest_files=[ "res://.import/pokemonrangerf.png-49e640715e142799f1c9913997e771f7.stex" ]
 
 [params]
 

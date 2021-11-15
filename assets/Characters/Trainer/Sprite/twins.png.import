@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/twins.png-ff842b11b768881c5ffd33efcbe845db.stex"
+path="res://.import/twins.png-0c1497adcd0ed9096f6bc3738bd0c923.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/twins.png"
-dest_files=[ "res://.import/twins.png-ff842b11b768881c5ffd33efcbe845db.stex" ]
+dest_files=[ "res://.import/twins.png-0c1497adcd0ed9096f6bc3738bd0c923.stex" ]
 
 [params]
 

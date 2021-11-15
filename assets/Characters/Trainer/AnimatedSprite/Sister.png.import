@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sister.png-f3720746cfcc9501a9d1f698b64271b0.stex"
+path="res://.import/Sister.png-61340dd4bbe07931311202c8e1310b26.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Sister.png"
-dest_files=[ "res://.import/Sister.png-f3720746cfcc9501a9d1f698b64271b0.stex" ]
+dest_files=[ "res://.import/Sister.png-61340dd4bbe07931311202c8e1310b26.stex" ]
 
 [params]
 

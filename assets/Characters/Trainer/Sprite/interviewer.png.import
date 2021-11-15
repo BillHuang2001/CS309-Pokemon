@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/interviewer.png-e8197773685f799eac14cdf404719658.stex"
+path="res://.import/interviewer.png-c3186daa6fc767857dcc7cb6436f5e65.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/interviewer.png"
-dest_files=[ "res://.import/interviewer.png-e8197773685f799eac14cdf404719658.stex" ]
+dest_files=[ "res://.import/interviewer.png-c3186daa6fc767857dcc7cb6436f5e65.stex" ]
 
 [params]
 

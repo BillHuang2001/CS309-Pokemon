@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Gary4.png-eeb81eefafcbaa69cfe855e4a3aea931.stex"
+path="res://.import/Gary4.png-2dfc160b6d56bef9afa56d3930a67ab6.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Gary4.png"
-dest_files=[ "res://.import/Gary4.png-eeb81eefafcbaa69cfe855e4a3aea931.stex" ]
+dest_files=[ "res://.import/Gary4.png-2dfc160b6d56bef9afa56d3930a67ab6.stex" ]
 
 [params]
 

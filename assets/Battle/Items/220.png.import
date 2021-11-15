@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/220.png-eec2e302dc5214f57f44300b5dbd84ab.stex"
+path="res://.import/220.png-09a7d5583bc3242a61b75577e37eb0cb.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Items/220.png"
-dest_files=[ "res://.import/220.png-eec2e302dc5214f57f44300b5dbd84ab.stex" ]
+dest_files=[ "res://.import/220.png-09a7d5583bc3242a61b75577e37eb0cb.stex" ]
 
 [params]
 

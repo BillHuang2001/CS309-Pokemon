@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/074-big-lapras.png-e3fc2b6dce03c8e1e18d586ef405a438.stex"
+path="res://.import/074-big-lapras.png-104ae3592555c342d7670ea50fb34eb5.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/074-big-lapras.png"
-dest_files=[ "res://.import/074-big-lapras.png-e3fc2b6dce03c8e1e18d586ef405a438.stex" ]
+dest_files=[ "res://.import/074-big-lapras.png-104ae3592555c342d7670ea50fb34eb5.stex" ]
 
 [params]
 

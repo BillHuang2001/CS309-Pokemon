@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Barry3.png-941683791c284fd0d9c7961ed5f87f8a.stex"
+path="res://.import/Barry3.png-de5dc8d7c44d3a46c03f6e03438083c4.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Barry3.png"
-dest_files=[ "res://.import/Barry3.png-941683791c284fd0d9c7961ed5f87f8a.stex" ]
+dest_files=[ "res://.import/Barry3.png-de5dc8d7c44d3a46c03f6e03438083c4.stex" ]
 
 [params]
 

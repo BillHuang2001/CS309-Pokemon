@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/034-blackbelt.png-e1390368a4bb0092b7b69949708c9868.stex"
+path="res://.import/034-blackbelt.png-6335c6a81dc15e393765c99050f11f11.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/034-blackbelt.png"
-dest_files=[ "res://.import/034-blackbelt.png-e1390368a4bb0092b7b69949708c9868.stex" ]
+dest_files=[ "res://.import/034-blackbelt.png-6335c6a81dc15e393765c99050f11f11.stex" ]
 
 [params]
 

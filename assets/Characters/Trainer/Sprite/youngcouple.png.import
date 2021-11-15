@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/youngcouple.png-e95adb388d20edce48494b761701d9e1.stex"
+path="res://.import/youngcouple.png-7bf9b0ce915c5759539d3dfc4e8deafe.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/youngcouple.png"
-dest_files=[ "res://.import/youngcouple.png-e95adb388d20edce48494b761701d9e1.stex" ]
+dest_files=[ "res://.import/youngcouple.png-7bf9b0ce915c5759539d3dfc4e8deafe.stex" ]
 
 [params]
 

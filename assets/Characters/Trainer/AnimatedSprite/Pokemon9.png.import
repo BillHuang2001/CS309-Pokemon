@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pokemon9.png-fcbeae610494308fae9385a158378028.stex"
+path="res://.import/Pokemon9.png-c55e04317c7240eb93540f4d2f8e6520.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Pokemon9.png"
-dest_files=[ "res://.import/Pokemon9.png-fcbeae610494308fae9385a158378028.stex" ]
+dest_files=[ "res://.import/Pokemon9.png-c55e04317c7240eb93540f4d2f8e6520.stex" ]
 
 [params]
 

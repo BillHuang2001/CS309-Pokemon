@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BugCatcher.png-1f8390eb516509119cd54044e56caf20.stex"
+path="res://.import/BugCatcher.png-4c60f6ac09a46fc209f07e9b641cb60f.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/BugCatcher.png"
-dest_files=[ "res://.import/BugCatcher.png-1f8390eb516509119cd54044e56caf20.stex" ]
+dest_files=[ "res://.import/BugCatcher.png-4c60f6ac09a46fc209f07e9b641cb60f.stex" ]
 
 [params]
 

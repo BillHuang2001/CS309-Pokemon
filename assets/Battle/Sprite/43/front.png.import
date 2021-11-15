@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/front.png-96c734d941d544656ad9d8d9e47c323a.stex"
+path="res://.import/front.png-3f1e3af56e5d6eb0956fb78cf67912aa.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Sprite/43/front.png"
-dest_files=[ "res://.import/front.png-96c734d941d544656ad9d8d9e47c323a.stex" ]
+dest_files=[ "res://.import/front.png-3f1e3af56e5d6eb0956fb78cf67912aa.stex" ]
 
 [params]
 

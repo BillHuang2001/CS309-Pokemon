@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oak_lab_machine.png-e10c67b26dc8cc20434ecccb04a77a5d.stex"
+path="res://.import/oak_lab_machine.png-637926bd95d2b4e437fc6711f129d887.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Buildings/pallet town/oak_lab_machine.png"
-dest_files=[ "res://.import/oak_lab_machine.png-e10c67b26dc8cc20434ecccb04a77a5d.stex" ]
+dest_files=[ "res://.import/oak_lab_machine.png-637926bd95d2b4e437fc6711f129d887.stex" ]
 
 [params]
 

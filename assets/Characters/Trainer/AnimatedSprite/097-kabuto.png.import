@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/097-kabuto.png-103361b1b207625dfe0d9cb589a8aa13.stex"
+path="res://.import/097-kabuto.png-fca514f4d3db0b574b7350f9d5c62f04.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/097-kabuto.png"
-dest_files=[ "res://.import/097-kabuto.png-103361b1b207625dfe0d9cb589a8aa13.stex" ]
+dest_files=[ "res://.import/097-kabuto.png-fca514f4d3db0b574b7350f9d5c62f04.stex" ]
 
 [params]
 

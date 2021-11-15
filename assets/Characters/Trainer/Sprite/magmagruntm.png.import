@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magmagruntm.png-461bb58b4f80d3868e6fec4ce0e4ed41.stex"
+path="res://.import/magmagruntm.png-60596b315a2e23f7983862287a3cf391.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/magmagruntm.png"
-dest_files=[ "res://.import/magmagruntm.png-461bb58b4f80d3868e6fec4ce0e4ed41.stex" ]
+dest_files=[ "res://.import/magmagruntm.png-60596b315a2e23f7983862287a3cf391.stex" ]
 
 [params]
 

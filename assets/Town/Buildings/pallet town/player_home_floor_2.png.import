@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/player_home_floor_2.png-5c42c1143c5e7edf90e092fc0c473fe4.stex"
+path="res://.import/player_home_floor_2.png-b486f5d06c5fc39476eca70b030595d3.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Buildings/pallet town/player_home_floor_2.png"
-dest_files=[ "res://.import/player_home_floor_2.png-5c42c1143c5e7edf90e092fc0c473fe4.stex" ]
+dest_files=[ "res://.import/player_home_floor_2.png-b486f5d06c5fc39476eca70b030595d3.stex" ]
 
 [params]
 

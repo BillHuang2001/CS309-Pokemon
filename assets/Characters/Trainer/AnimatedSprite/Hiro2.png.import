@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hiro2.png-51083e204f96018c7ca42cb84d521b1a.stex"
+path="res://.import/Hiro2.png-b51659f2e660268cde671e91e7f3878b.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Hiro2.png"
-dest_files=[ "res://.import/Hiro2.png-51083e204f96018c7ca42cb84d521b1a.stex" ]
+dest_files=[ "res://.import/Hiro2.png-b51659f2e660268cde671e91e7f3878b.stex" ]
 
 [params]
 

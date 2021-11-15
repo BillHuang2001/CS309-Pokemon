@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/071-lance.png-75fa79e5d5a45c62a8f44ad89301c6cd.stex"
+path="res://.import/071-lance.png-ed851c83d101d85d8d2676fccd1f4110.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/071-lance.png"
-dest_files=[ "res://.import/071-lance.png-75fa79e5d5a45c62a8f44ad89301c6cd.stex" ]
+dest_files=[ "res://.import/071-lance.png-ed851c83d101d85d8d2676fccd1f4110.stex" ]
 
 [params]
 

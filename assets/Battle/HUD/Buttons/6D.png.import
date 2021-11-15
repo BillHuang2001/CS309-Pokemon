@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/6D.png-b24374b3ebbfd0be80db8ce3729060f9.stex"
+path="res://.import/6D.png-9bfff02ea835692401791d490886ed9a.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/HUD/Buttons/6D.png"
-dest_files=[ "res://.import/6D.png-b24374b3ebbfd0be80db8ce3729060f9.stex" ]
+dest_files=[ "res://.import/6D.png-9bfff02ea835692401791d490886ed9a.stex" ]
 
 [params]
 

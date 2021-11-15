@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/auto22.png-416cccfd01686d037e5a38b6965ffccc.stex"
+path="res://.import/auto22.png-be387eb3f0bce6d02e628bc051dc6220.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Tiles/auto22.png"
-dest_files=[ "res://.import/auto22.png-416cccfd01686d037e5a38b6965ffccc.stex" ]
+dest_files=[ "res://.import/auto22.png-be387eb3f0bce6d02e628bc051dc6220.stex" ]
 
 [params]
 

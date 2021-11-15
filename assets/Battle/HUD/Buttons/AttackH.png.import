@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AttackH.png-e8de420e1a2b7a6bea746a31537f0869.stex"
+path="res://.import/AttackH.png-1b0759fe4c5c5223ce3f4a2132755aba.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/HUD/Buttons/AttackH.png"
-dest_files=[ "res://.import/AttackH.png-e8de420e1a2b7a6bea746a31537f0869.stex" ]
+dest_files=[ "res://.import/AttackH.png-1b0759fe4c5c5223ce3f4a2132755aba.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/brendan.png-998f7f1a61eb8ba1dab8423c0625c68c.stex"
+path="res://.import/brendan.png-8376101d67df6103ad54befe9d8ecae7.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/brendan.png"
-dest_files=[ "res://.import/brendan.png-998f7f1a61eb8ba1dab8423c0625c68c.stex" ]
+dest_files=[ "res://.import/brendan.png-8376101d67df6103ad54befe9d8ecae7.stex" ]
 
 [params]
 

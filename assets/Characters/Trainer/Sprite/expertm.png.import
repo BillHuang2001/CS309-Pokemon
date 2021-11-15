@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/expertm.png-3595e8ba87190c736476b7b4cb477793.stex"
+path="res://.import/expertm.png-b854973cc7a3ed83a20b9828feec0841.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/expertm.png"
-dest_files=[ "res://.import/expertm.png-3595e8ba87190c736476b7b4cb477793.stex" ]
+dest_files=[ "res://.import/expertm.png-b854973cc7a3ed83a20b9828feec0841.stex" ]
 
 [params]
 

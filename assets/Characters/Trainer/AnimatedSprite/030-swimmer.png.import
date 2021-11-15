@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/030-swimmer.png-51d12351e477ff62e9389f35652afd10.stex"
+path="res://.import/030-swimmer.png-0035fcfe4e8e7782432d6081b340fbb3.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/030-swimmer.png"
-dest_files=[ "res://.import/030-swimmer.png-51d12351e477ff62e9389f35652afd10.stex" ]
+dest_files=[ "res://.import/030-swimmer.png-0035fcfe4e8e7782432d6081b340fbb3.stex" ]
 
 [params]
 

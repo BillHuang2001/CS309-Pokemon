@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/062-lt-surge.png-58fdc1c8e1b9394194026a57a92c0b6e.stex"
+path="res://.import/062-lt-surge.png-49f06f5b8ef8a80529f2bc5e0facbb2b.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/062-lt-surge.png"
-dest_files=[ "res://.import/062-lt-surge.png-58fdc1c8e1b9394194026a57a92c0b6e.stex" ]
+dest_files=[ "res://.import/062-lt-surge.png-49f06f5b8ef8a80529f2bc5e0facbb2b.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/13H.png-b1c7dc941f93c5dd05570051670331dc.stex"
+path="res://.import/13H.png-117441d481ca42478bfce55c3daef4d3.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/HUD/Buttons/13H.png"
-dest_files=[ "res://.import/13H.png-b1c7dc941f93c5dd05570051670331dc.stex" ]
+dest_files=[ "res://.import/13H.png-117441d481ca42478bfce55c3daef4d3.stex" ]
 
 [params]
 

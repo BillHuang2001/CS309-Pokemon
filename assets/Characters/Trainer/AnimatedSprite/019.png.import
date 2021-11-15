@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/019.png-99dbfd433d4234dabc225d6ba5ca0ca5.stex"
+path="res://.import/019.png-4aa52e909e2882c0b2f98b112588f217.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/019.png"
-dest_files=[ "res://.import/019.png-99dbfd433d4234dabc225d6ba5ca0ca5.stex" ]
+dest_files=[ "res://.import/019.png-4aa52e909e2882c0b2f98b112588f217.stex" ]
 
 [params]
 

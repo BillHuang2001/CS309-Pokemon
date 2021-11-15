@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ledge.png-68bfc9a0a58dba713498f1bcdf1fbb56.stex"
+path="res://.import/ledge.png-21636a1b81a4b385ab8c510d64fc096b.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Tiles/ledge.png"
-dest_files=[ "res://.import/ledge.png-68bfc9a0a58dba713498f1bcdf1fbb56.stex" ]
+dest_files=[ "res://.import/ledge.png-21636a1b81a4b385ab8c510d64fc096b.stex" ]
 
 [params]
 

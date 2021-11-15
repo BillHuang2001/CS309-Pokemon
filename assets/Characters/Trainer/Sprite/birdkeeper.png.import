@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/birdkeeper.png-d48fea7a145fccce974c3a4450f93b4d.stex"
+path="res://.import/birdkeeper.png-c126a14f223f631975b221a74fbf209c.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/birdkeeper.png"
-dest_files=[ "res://.import/birdkeeper.png-d48fea7a145fccce974c3a4450f93b4d.stex" ]
+dest_files=[ "res://.import/birdkeeper.png-c126a14f223f631975b221a74fbf209c.stex" ]
 
 [params]
 

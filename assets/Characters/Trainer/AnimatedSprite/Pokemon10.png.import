@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pokemon10.png-6b7d7df97924b7431329cf69d668d49b.stex"
+path="res://.import/Pokemon10.png-11e1d0fc09624d03def86593b413645f.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Pokemon10.png"
-dest_files=[ "res://.import/Pokemon10.png-6b7d7df97924b7431329cf69d668d49b.stex" ]
+dest_files=[ "res://.import/Pokemon10.png-11e1d0fc09624d03def86593b413645f.stex" ]
 
 [params]
 

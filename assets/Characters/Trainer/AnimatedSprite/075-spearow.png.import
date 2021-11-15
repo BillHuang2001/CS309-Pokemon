@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/075-spearow.png-046ea16223910f10636e1079333998b1.stex"
+path="res://.import/075-spearow.png-6d058d7c951b2feda956c2e444305877.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/075-spearow.png"
-dest_files=[ "res://.import/075-spearow.png-046ea16223910f10636e1079333998b1.stex" ]
+dest_files=[ "res://.import/075-spearow.png-6d058d7c951b2feda956c2e444305877.stex" ]
 
 [params]
 

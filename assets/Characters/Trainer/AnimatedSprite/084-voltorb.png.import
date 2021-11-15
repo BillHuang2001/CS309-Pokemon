@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/084-voltorb.png-7a01001715fc3980341517eda8309319.stex"
+path="res://.import/084-voltorb.png-0c1367077ab0a1ae858ed9042acb7c40.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/084-voltorb.png"
-dest_files=[ "res://.import/084-voltorb.png-7a01001715fc3980341517eda8309319.stex" ]
+dest_files=[ "res://.import/084-voltorb.png-0c1367077ab0a1ae858ed9042acb7c40.stex" ]
 
 [params]
 

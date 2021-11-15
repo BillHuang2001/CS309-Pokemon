@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/type8.png-71a56e95706d151778db1269f72e37da.stex"
+path="res://.import/type8.png-d509ce7426e75f4ad93448e18995f45c.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/HUD/attribute/type8.png"
-dest_files=[ "res://.import/type8.png-71a56e95706d151778db1269f72e37da.stex" ]
+dest_files=[ "res://.import/type8.png-d509ce7426e75f4ad93448e18995f45c.stex" ]
 
 [params]
 

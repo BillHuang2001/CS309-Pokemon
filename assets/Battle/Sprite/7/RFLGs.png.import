@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RFLGs.png-b9b67980f846895a35e9b1e84e83be1f.stex"
+path="res://.import/RFLGs.png-c3cb8e6a78fc80ad28d2d9105fa01e23.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Sprite/7/RFLGs.png"
-dest_files=[ "res://.import/RFLGs.png-b9b67980f846895a35e9b1e84e83be1f.stex" ]
+dest_files=[ "res://.import/RFLGs.png-c3cb8e6a78fc80ad28d2d9105fa01e23.stex" ]
 
 [params]
 

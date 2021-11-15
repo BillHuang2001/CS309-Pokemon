@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DPbms.png-7f27d2a56403f6c63150d0fa0a572b28.stex"
+path="res://.import/DPbms.png-1809aad4dcc42bd5e3f89050084791b6.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Sprite/21/DPbms.png"
-dest_files=[ "res://.import/DPbms.png-7f27d2a56403f6c63150d0fa0a572b28.stex" ]
+dest_files=[ "res://.import/DPbms.png-1809aad4dcc42bd5e3f89050084791b6.stex" ]
 
 [params]
 

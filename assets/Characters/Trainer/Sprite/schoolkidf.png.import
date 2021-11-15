@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/schoolkidf.png-062739a656587005d5abc70250444b87.stex"
+path="res://.import/schoolkidf.png-fe198353b9c2a80da18f185ad2214f23.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/schoolkidf.png"
-dest_files=[ "res://.import/schoolkidf.png-062739a656587005d5abc70250444b87.stex" ]
+dest_files=[ "res://.import/schoolkidf.png-fe198353b9c2a80da18f185ad2214f23.stex" ]
 
 [params]
 
