@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hiker.png-f9d8dec4caaa956362531a9dfa955a90.stex"
+path="res://.import/hiker.png-a3949d932b48225644da7ae1bd4554bd.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/hiker.png"
-dest_files=[ "res://.import/hiker.png-f9d8dec4caaa956362531a9dfa955a90.stex" ]
+dest_files=[ "res://.import/hiker.png-a3949d932b48225644da7ae1bd4554bd.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

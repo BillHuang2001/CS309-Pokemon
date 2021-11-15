@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jump_landing_dust.png-d154ae42f4bb86eec26d41a7e344da2f.stex"
+path="res://.import/jump_landing_dust.png-abae90100d926918b56a546625e4c739.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Player/jump_landing_dust.png"
-dest_files=[ "res://.import/jump_landing_dust.png-d154ae42f4bb86eec26d41a7e344da2f.stex" ]
+dest_files=[ "res://.import/jump_landing_dust.png-abae90100d926918b56a546625e4c739.stex" ]
 
 [params]
 

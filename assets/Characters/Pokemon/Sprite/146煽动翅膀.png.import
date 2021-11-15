@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/146煽动翅膀.png-9b93bb97b02ab3d314d4d54a8580d20c.stex"
+path="res://.import/146煽动翅膀.png-7b16d3d6557c0c4f74173e0cbf4e14bd.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Pokemon/Sprite/146煽动翅膀.png"
-dest_files=[ "res://.import/146煽动翅膀.png-9b93bb97b02ab3d314d4d54a8580d20c.stex" ]
+dest_files=[ "res://.import/146煽动翅膀.png-7b16d3d6557c0c4f74173e0cbf4e14bd.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

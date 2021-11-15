@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/386-2.png-bd60591ca332831982fc6ad712347e60.stex"
+path="res://.import/386-2.png-23ed88dcad85335e95731d37c66cb8af.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Icons/386-2.png"
-dest_files=[ "res://.import/386-2.png-bd60591ca332831982fc6ad712347e60.stex" ]
+dest_files=[ "res://.import/386-2.png-23ed88dcad85335e95731d37c66cb8af.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/godette_pawn.png-ca9dcb9e07516d0413d95d19c121b9ff.stex"
+path="res://.import/godette_pawn.png-7a2eba6805e2ba01ce700efe37f3c360.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/local_map/characters/godette_pawn.png"
-dest_files=[ "res://.import/godette_pawn.png-ca9dcb9e07516d0413d95d19c121b9ff.stex" ]
+dest_files=[ "res://.import/godette_pawn.png-7a2eba6805e2ba01ce700efe37f3c360.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Red5.png-a575d507619e446899ef13d7fe314053.stex"
+path="res://.import/Red5.png-9f56847c25b1466924ef8a74a6853737.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Player/Red5.png"
-dest_files=[ "res://.import/Red5.png-a575d507619e446899ef13d7fe314053.stex" ]
+dest_files=[ "res://.import/Red5.png-9f56847c25b1466924ef8a74a6853737.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

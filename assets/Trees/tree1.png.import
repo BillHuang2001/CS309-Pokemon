@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree1.png-ef35a911108f9c588b03136e63c55cbc.stex"
+path="res://.import/tree1.png-49b0e888b11f3290c10feeb352f498d9.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Trees/tree1.png"
-dest_files=[ "res://.import/tree1.png-ef35a911108f9c588b03136e63c55cbc.stex" ]
+dest_files=[ "res://.import/tree1.png-49b0e888b11f3290c10feeb352f498d9.stex" ]
 
 [params]
 

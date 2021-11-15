@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Onix.png-52b38b466f795dbdea08fd92150451d8.stex"
+path="res://.import/Onix.png-3fef9180710d726971ff0b65a09dd65d.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Pokemon/Onix.png"
-dest_files=[ "res://.import/Onix.png-52b38b466f795dbdea08fd92150451d8.stex" ]
+dest_files=[ "res://.import/Onix.png-3fef9180710d726971ff0b65a09dd65d.stex" ]
 
 [params]
 

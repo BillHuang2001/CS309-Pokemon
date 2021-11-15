@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bugmaniac.png-0821f7825e909b6c02c59c4f7e4730e9.stex"
+path="res://.import/bugmaniac.png-e3bfd5a3fd229330d9e55bd0d26a5b89.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/bugmaniac.png"
-dest_files=[ "res://.import/bugmaniac.png-0821f7825e909b6c02c59c4f7e4730e9.stex" ]
+dest_files=[ "res://.import/bugmaniac.png-e3bfd5a3fd229330d9e55bd0d26a5b89.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

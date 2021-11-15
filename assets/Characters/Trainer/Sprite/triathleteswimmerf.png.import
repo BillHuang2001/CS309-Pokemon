@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/triathleteswimmerf.png-42f46185e6eae304a7318a1f2da36f6f.stex"
+path="res://.import/triathleteswimmerf.png-dd2e340144809f80d26674b9c379606a.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/triathleteswimmerf.png"
-dest_files=[ "res://.import/triathleteswimmerf.png-42f46185e6eae304a7318a1f2da36f6f.stex" ]
+dest_files=[ "res://.import/triathleteswimmerf.png-dd2e340144809f80d26674b9c379606a.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

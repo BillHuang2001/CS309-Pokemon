@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/backs.png-b78ae2eb36a7e6558e1c81d9224081af.stex"
+path="res://.import/backs.png-8978c29d5d1467408fcb360b96f7f20d.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Sprite/14/backs.png"
-dest_files=[ "res://.import/backs.png-b78ae2eb36a7e6558e1c81d9224081af.stex" ]
+dest_files=[ "res://.import/backs.png-8978c29d5d1467408fcb360b96f7f20d.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

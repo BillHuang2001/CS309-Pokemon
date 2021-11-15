@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sword-stick.png-ba7b54215dedae812df7ae31fb5a4b06.stex"
+path="res://.import/sword-stick.png-f30d21c4c3e0536591da54e5daeebbe3.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/weapons/sword-stick.png"
-dest_files=[ "res://.import/sword-stick.png-ba7b54215dedae812df7ae31fb5a4b06.stex" ]
+dest_files=[ "res://.import/sword-stick.png-f30d21c4c3e0536591da54e5daeebbe3.stex" ]
 
 [params]
 

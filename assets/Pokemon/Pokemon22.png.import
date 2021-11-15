@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pokemon22.png-2713c666328fb6958c290f4b2b80fdab.stex"
+path="res://.import/Pokemon22.png-d96e07598a7d47e65d5c6a9f21b522b0.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Pokemon/Pokemon22.png"
-dest_files=[ "res://.import/Pokemon22.png-2713c666328fb6958c290f4b2b80fdab.stex" ]
+dest_files=[ "res://.import/Pokemon22.png-d96e07598a7d47e65d5c6a9f21b522b0.stex" ]
 
 [params]
 

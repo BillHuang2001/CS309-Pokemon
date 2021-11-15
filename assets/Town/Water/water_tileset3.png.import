@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water_tileset3.png-b32bf941ba8e912d1b3f5a8f4fe7dcd8.stex"
+path="res://.import/water_tileset3.png-0f3649cba80c6a567eb42aa02b0a7e83.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Water/water_tileset3.png"
-dest_files=[ "res://.import/water_tileset3.png-b32bf941ba8e912d1b3f5a8f4fe7dcd8.stex" ]
+dest_files=[ "res://.import/water_tileset3.png-0f3649cba80c6a567eb42aa02b0a7e83.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

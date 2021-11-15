@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/robi.png-7efbbbff1fa015a80bc8e1af22870271.stex"
+path="res://.import/robi.png-6b528f8ea44cb5a43339c1bfc359ccf9.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/battlers/robi.png"
-dest_files=[ "res://.import/robi.png-7efbbbff1fa015a80bc8e1af22870271.stex" ]
+dest_files=[ "res://.import/robi.png-6b528f8ea44cb5a43339c1bfc359ccf9.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Amy.png-a4aeea87ef10d9c97e27a0f8b481c452.stex"
+path="res://.import/Amy.png-773fe83705ba21effe27b10d64994560.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Amy.png"
-dest_files=[ "res://.import/Amy.png-a4aeea87ef10d9c97e27a0f8b481c452.stex" ]
+dest_files=[ "res://.import/Amy.png-773fe83705ba21effe27b10d64994560.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

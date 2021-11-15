@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stepped_tall_grass.png-c3d08b8ba4ac8bfaf94aa052cd5923de.stex"
+path="res://.import/stepped_tall_grass.png-b8f0b45454d675efc345a60a1e27dbd8.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Grass/stepped_tall_grass.png"
-dest_files=[ "res://.import/stepped_tall_grass.png-c3d08b8ba4ac8bfaf94aa052cd5923de.stex" ]
+dest_files=[ "res://.import/stepped_tall_grass.png-b8f0b45454d675efc345a60a1e27dbd8.stex" ]
 
 [params]
 

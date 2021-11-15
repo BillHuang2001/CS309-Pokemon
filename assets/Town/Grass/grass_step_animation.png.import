@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass_step_animation.png-143ed7a9b03e951366f6740731cbbb2e.stex"
+path="res://.import/grass_step_animation.png-b97cd1b63750648fc7b40981df317b1c.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Grass/grass_step_animation.png"
-dest_files=[ "res://.import/grass_step_animation.png-143ed7a9b03e951366f6740731cbbb2e.stex" ]
+dest_files=[ "res://.import/grass_step_animation.png-b97cd1b63750648fc7b40981df317b1c.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

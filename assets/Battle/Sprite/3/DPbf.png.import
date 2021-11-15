@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DPbf.png-e14cf41de9503de91b4467aead95292a.stex"
+path="res://.import/DPbf.png-6ab844aa189a7a77a48f148054d09921.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Sprite/3/DPbf.png"
-dest_files=[ "res://.import/DPbf.png-e14cf41de9503de91b4467aead95292a.stex" ]
+dest_files=[ "res://.import/DPbf.png-6ab844aa189a7a77a48f148054d09921.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

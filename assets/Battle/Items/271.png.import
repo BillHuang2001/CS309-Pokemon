@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/271.png-fa4523dde77ef2719791f6e434ae7b7d.stex"
+path="res://.import/271.png-1ee1b9e7564f7241ef592bf097374d2c.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Items/271.png"
-dest_files=[ "res://.import/271.png-fa4523dde77ef2719791f6e434ae7b7d.stex" ]
+dest_files=[ "res://.import/271.png-1ee1b9e7564f7241ef592bf097374d2c.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

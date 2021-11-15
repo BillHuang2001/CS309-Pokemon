@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gender_icons.png-b0f9eaa84e5321eb061cb639286f15df.stex"
+path="res://.import/gender_icons.png-140e66cf0b1160b556a8c09b0b385673.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/UI/Pokemon Party/gender_icons.png"
-dest_files=[ "res://.import/gender_icons.png-b0f9eaa84e5321eb061cb639286f15df.stex" ]
+dest_files=[ "res://.import/gender_icons.png-140e66cf0b1160b556a8c09b0b385673.stex" ]
 
 [params]
 

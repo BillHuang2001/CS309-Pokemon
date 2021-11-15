@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oaks_lab_interior.png-77e746c0c8866726fb89e5dbe35115b7.stex"
+path="res://.import/oaks_lab_interior.png-f2cc77da483ca8065fa4d42b4fa013db.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Buildings/pallet town/oaks_lab_interior.png"
-dest_files=[ "res://.import/oaks_lab_interior.png-77e746c0c8866726fb89e5dbe35115b7.stex" ]
+dest_files=[ "res://.import/oaks_lab_interior.png-f2cc77da483ca8065fa4d42b4fa013db.stex" ]
 
 [params]
 

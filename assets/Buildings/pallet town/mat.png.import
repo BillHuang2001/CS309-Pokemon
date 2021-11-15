@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mat.png-4e557e6a88e1bfef43505945433d9365.stex"
+path="res://.import/mat.png-e09bcff131b8d42165c97f278bac4bfd.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Buildings/pallet town/mat.png"
-dest_files=[ "res://.import/mat.png-4e557e6a88e1bfef43505945433d9365.stex" ]
+dest_files=[ "res://.import/mat.png-e09bcff131b8d42165c97f278bac4bfd.stex" ]
 
 [params]
 

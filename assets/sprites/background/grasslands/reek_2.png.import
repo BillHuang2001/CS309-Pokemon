@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/reek_2.png-0ffbe43c3fdfff99170913c30de7bc64.stex"
+path="res://.import/reek_2.png-8601c4f62bce6ad022c1cd92912be1d1.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/background/grasslands/reek_2.png"
-dest_files=[ "res://.import/reek_2.png-0ffbe43c3fdfff99170913c30de7bc64.stex" ]
+dest_files=[ "res://.import/reek_2.png-8601c4f62bce6ad022c1cd92912be1d1.stex" ]
 
 [params]
 

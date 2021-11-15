@@ -1,7 +1,7 @@
 extends Node2D
 
 onready var anim_player = $AnimationPlayer
-const grass_overlay_texture = preload("res://Assets/Grass/stepped_tall_grass.png")
+const grass_overlay_texture = preload("res://assets/Grass/stepped_tall_grass.png")
 const GrassStepEffect = preload("res://src/Godot-Pokemon-main/GrassStepEffect.tscn")
 var grass_overlay: TextureRect = null
 

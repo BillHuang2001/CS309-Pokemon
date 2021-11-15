@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pokemon145.png-c6a1ac6c8475ac49f9a00d2f7680a27d.stex"
+path="res://.import/Pokemon145.png-5b969d9490ff4382f88be4b950819ff5.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Pokemon/Pokemon145.png"
-dest_files=[ "res://.import/Pokemon145.png-c6a1ac6c8475ac49f9a00d2f7680a27d.stex" ]
+dest_files=[ "res://.import/Pokemon145.png-5b969d9490ff4382f88be4b950819ff5.stex" ]
 
 [params]
 

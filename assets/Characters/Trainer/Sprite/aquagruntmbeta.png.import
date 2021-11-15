@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/aquagruntmbeta.png-a36b93615a0798c15ee84368807a647d.stex"
+path="res://.import/aquagruntmbeta.png-d6f514f76a86940016399ac9baf34dc2.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/aquagruntmbeta.png"
-dest_files=[ "res://.import/aquagruntmbeta.png-a36b93615a0798c15ee84368807a647d.stex" ]
+dest_files=[ "res://.import/aquagruntmbeta.png-d6f514f76a86940016399ac9baf34dc2.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

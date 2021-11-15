@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/025.png-f5dcae261b37f383524f2c6f06226133.stex"
+path="res://.import/025.png-c837992b6a41da1b88efff2bd4cc9e05.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/025.png"
-dest_files=[ "res://.import/025.png-f5dcae261b37f383524f2c6f06226133.stex" ]
+dest_files=[ "res://.import/025.png-c837992b6a41da1b88efff2bd4cc9e05.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

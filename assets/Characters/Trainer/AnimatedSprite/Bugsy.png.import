@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bugsy.png-635703ca5a7c3d25ca6cbe44b7afb316.stex"
+path="res://.import/Bugsy.png-3c51e654e829f122eed6553c78aefc67.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Bugsy.png"
-dest_files=[ "res://.import/Bugsy.png-635703ca5a7c3d25ca6cbe44b7afb316.stex" ]
+dest_files=[ "res://.import/Bugsy.png-3c51e654e829f122eed6553c78aefc67.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

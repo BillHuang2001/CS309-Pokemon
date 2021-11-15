@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tuberf.png-09cbf629ca19ce3801a3d9fe86b6a1e5.stex"
+path="res://.import/tuberf.png-64986b1601fdaeb3d5a53f8ce097a6bc.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/tuberf.png"
-dest_files=[ "res://.import/tuberf.png-09cbf629ca19ce3801a3d9fe86b6a1e5.stex" ]
+dest_files=[ "res://.import/tuberf.png-64986b1601fdaeb3d5a53f8ce097a6bc.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

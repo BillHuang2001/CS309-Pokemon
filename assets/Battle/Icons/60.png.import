@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/60.png-1aa8fc52a2c8514dab0c996adcb6d6b1.stex"
+path="res://.import/60.png-4000936cbb4cf1abef91a08f58681b83.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/Icons/60.png"
-dest_files=[ "res://.import/60.png-1aa8fc52a2c8514dab0c996adcb6d6b1.stex" ]
+dest_files=[ "res://.import/60.png-4000936cbb4cf1abef91a08f58681b83.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

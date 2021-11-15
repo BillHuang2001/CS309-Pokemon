@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/red_flower.png-b23ee2428b73bcb474a40d53e97f3936.stex"
+path="res://.import/red_flower.png-fba92182192500370b7a6cf410129cbb.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Flowers/red_flower.png"
-dest_files=[ "res://.import/red_flower.png-b23ee2428b73bcb474a40d53e97f3936.stex" ]
+dest_files=[ "res://.import/red_flower.png-fba92182192500370b7a6cf410129cbb.stex" ]
 
 [params]
 

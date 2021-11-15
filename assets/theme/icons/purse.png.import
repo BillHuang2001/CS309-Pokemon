@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/purse.png-5e23dfa3c331840082282271c2f2aa0e.stex"
+path="res://.import/purse.png-2b01aeb2e256b924439d1e29cfb23ed7.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/theme/icons/purse.png"
-dest_files=[ "res://.import/purse.png-5e23dfa3c331840082282271c2f2aa0e.stex" ]
+dest_files=[ "res://.import/purse.png-2b01aeb2e256b924439d1e29cfb23ed7.stex" ]
 
 [params]
 

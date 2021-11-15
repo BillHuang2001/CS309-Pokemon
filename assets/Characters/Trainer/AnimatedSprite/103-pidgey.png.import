@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/103-pidgey.png-1165cf1d662eb0fdb44d49c3fe713b0a.stex"
+path="res://.import/103-pidgey.png-954584afeafb2ef482d5db7ec53dd9d2.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/103-pidgey.png"
-dest_files=[ "res://.import/103-pidgey.png-1165cf1d662eb0fdb44d49c3fe713b0a.stex" ]
+dest_files=[ "res://.import/103-pidgey.png-954584afeafb2ef482d5db7ec53dd9d2.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

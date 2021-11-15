@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/3H.png-4b479fe1ce6231266294b6ae2649824e.stex"
+path="res://.import/3H.png-9442c761b6660d6607ac9888e3dd2057.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/HUD/Buttons/3H.png"
-dest_files=[ "res://.import/3H.png-4b479fe1ce6231266294b6ae2649824e.stex" ]
+dest_files=[ "res://.import/3H.png-9442c761b6660d6607ac9888e3dd2057.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

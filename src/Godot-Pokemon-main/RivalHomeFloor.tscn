@@ -1,9 +1,9 @@
 [gd_scene load_steps=9 format=2]
 
-[ext_resource path="res://Assets/Buildings/pallet town/rival_home.png" type="Texture" id=1]
+[ext_resource path="res://assets/Buildings/pallet town/rival_home.png" type="Texture" id=1]
 [ext_resource path="res://src/Godot-Pokemon-main/Player.tscn" type="PackedScene" id=2]
 [ext_resource path="res://src/Godot-Pokemon-main/Door.tscn" type="PackedScene" id=3]
-[ext_resource path="res://Assets/Buildings/pallet town/mat.png" type="Texture" id=4]
+[ext_resource path="res://assets/Buildings/pallet town/mat.png" type="Texture" id=4]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 8, 88 )

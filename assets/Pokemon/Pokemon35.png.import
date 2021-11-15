@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pokemon35.png-afd2873abad10f84c6d351d729acccbd.stex"
+path="res://.import/Pokemon35.png-24fd0fa9e782c782195730ca612d04af.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Pokemon/Pokemon35.png"
-dest_files=[ "res://.import/Pokemon35.png-afd2873abad10f84c6d351d729acccbd.stex" ]
+dest_files=[ "res://.import/Pokemon35.png-24fd0fa9e782c782195730ca612d04af.stex" ]
 
 [params]
 

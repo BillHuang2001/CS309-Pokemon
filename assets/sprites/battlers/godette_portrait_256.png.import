@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/godette_portrait_256.png-05321e088e0867fcb2ebe27adcb2d002.stex"
+path="res://.import/godette_portrait_256.png-6c78d15b9fafc881c2b032c3d00e583b.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/battlers/godette_portrait_256.png"
-dest_files=[ "res://.import/godette_portrait_256.png-05321e088e0867fcb2ebe27adcb2d002.stex" ]
+dest_files=[ "res://.import/godette_portrait_256.png-6c78d15b9fafc881c2b032c3d00e583b.stex" ]
 
 [params]
 

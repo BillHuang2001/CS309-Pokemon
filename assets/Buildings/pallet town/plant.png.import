@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plant.png-c45736e24d7a6dfcedd6f2580557d10e.stex"
+path="res://.import/plant.png-fa091875fe715f380940043c3b395e3d.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Buildings/pallet town/plant.png"
-dest_files=[ "res://.import/plant.png-c45736e24d7a6dfcedd6f2580557d10e.stex" ]
+dest_files=[ "res://.import/plant.png-fa091875fe715f380940043c3b395e3d.stex" ]
 
 [params]
 

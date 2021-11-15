@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Gary7.png-a4dae1013bb095ae051271de2d95d6f1.stex"
+path="res://.import/Gary7.png-9710f06d7daef6e8f5500f1a784d323c.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/AnimatedSprite/Gary7.png"
-dest_files=[ "res://.import/Gary7.png-a4dae1013bb095ae051271de2d95d6f1.stex" ]
+dest_files=[ "res://.import/Gary7.png-9710f06d7daef6e8f5500f1a784d323c.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

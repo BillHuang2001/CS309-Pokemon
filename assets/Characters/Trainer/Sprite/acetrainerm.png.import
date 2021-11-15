@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/acetrainerm.png-26191299d5e127591f04d258155b8b8c.stex"
+path="res://.import/acetrainerm.png-2f7b0f5132bdc1c28c81a4e01bd5cd6f.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/acetrainerm.png"
-dest_files=[ "res://.import/acetrainerm.png-26191299d5e127591f04d258155b8b8c.stex" ]
+dest_files=[ "res://.import/acetrainerm.png-2f7b0f5132bdc1c28c81a4e01bd5cd6f.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

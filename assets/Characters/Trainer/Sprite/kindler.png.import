@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kindler.png-ae2aece3e28932227044c5e0e9749341.stex"
+path="res://.import/kindler.png-57064e19def5941d547d79a5c4d7ee6b.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/kindler.png"
-dest_files=[ "res://.import/kindler.png-ae2aece3e28932227044c5e0e9749341.stex" ]
+dest_files=[ "res://.import/kindler.png-57064e19def5941d547d79a5c4d7ee6b.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

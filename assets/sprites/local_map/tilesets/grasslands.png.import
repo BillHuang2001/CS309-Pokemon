@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grasslands.png-6ed6fe0e626d8cd0733b24faccbd758a.stex"
+path="res://.import/grasslands.png-3a9eafb6b698d6be97b3b0fc177fb561.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/local_map/tilesets/grasslands.png"
-dest_files=[ "res://.import/grasslands.png-6ed6fe0e626d8cd0733b24faccbd758a.stex" ]
+dest_files=[ "res://.import/grasslands.png-3a9eafb6b698d6be97b3b0fc177fb561.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/type15.png-82728ab691bb7a3186cf0fc8bc42472b.stex"
+path="res://.import/type15.png-0d7e95aadc1c4f02da53a2587d65c845.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Battle/HUD/attribute/type15.png"
-dest_files=[ "res://.import/type15.png-82728ab691bb7a3186cf0fc8bc42472b.stex" ]
+dest_files=[ "res://.import/type15.png-0d7e95aadc1c4f02da53a2587d65c845.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

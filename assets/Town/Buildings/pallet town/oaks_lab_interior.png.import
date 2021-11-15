@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oaks_lab_interior.png-fef91d6d6be5899b97d4f83c9397b32e.stex"
+path="res://.import/oaks_lab_interior.png-8aef8fd1ed8b556913498bb635f52704.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Buildings/pallet town/oaks_lab_interior.png"
-dest_files=[ "res://.import/oaks_lab_interior.png-fef91d6d6be5899b97d4f83c9397b32e.stex" ]
+dest_files=[ "res://.import/oaks_lab_interior.png-8aef8fd1ed8b556913498bb635f52704.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

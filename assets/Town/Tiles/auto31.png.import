@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/auto31.png-ab7f4fe0ccf1669b5d2d3b0a8c496a12.stex"
+path="res://.import/auto31.png-4500c2a24ff6adfeda402cbf7c9dfc64.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Town/Tiles/auto31.png"
-dest_files=[ "res://.import/auto31.png-ab7f4fe0ccf1669b5d2d3b0a8c496a12.stex" ]
+dest_files=[ "res://.import/auto31.png-4500c2a24ff6adfeda402cbf7c9dfc64.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

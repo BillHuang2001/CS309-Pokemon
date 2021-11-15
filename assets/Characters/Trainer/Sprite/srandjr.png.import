@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/srandjr.png-b0b807a1d70ec13dc7e506e74e58d5d1.stex"
+path="res://.import/srandjr.png-b403e8e03bd5d691dedc1eca4b08767f.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Characters/Trainer/Sprite/srandjr.png"
-dest_files=[ "res://.import/srandjr.png-b0b807a1d70ec13dc7e506e74e58d5d1.stex" ]
+dest_files=[ "res://.import/srandjr.png-b403e8e03bd5d691dedc1eca4b08767f.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
