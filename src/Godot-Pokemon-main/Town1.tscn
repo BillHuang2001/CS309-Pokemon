@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/Godot-Pokemon-main/Town.tscn" type="PackedScene" id=1]
+
+[node name="Town" instance=ExtResource( 1 )]
+
+[editable path="YSort/OaksLab"]
+[editable path="YSort/OaksLab/Door"]
+[editable path="YSort/PokemonCenter"]
+[editable path="YSort/Shop"]

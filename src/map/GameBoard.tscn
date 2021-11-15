@@ -1,0 +1,107 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://src/map/grid/GameBoard.gd" type="Script" id=1]
+[ext_resource path="res://assets/tilesets/grid/grid_tileset.tres" type="TileSet" id=2]
+[ext_resource path="res://src/map/grid/SpawningPoint.tscn" type="PackedScene" id=3]
+[ext_resource path="res://src/party/Party.tscn" type="PackedScene" id=4]
+[ext_resource path="res://src/map/pawns/PawnInteractive.tscn" type="PackedScene" id=5]
+[ext_resource path="res://src/map/pawns/PawnInteractive.gd" type="Script" id=6]
+[ext_resource path="res://src/map/grid/PawnContainer.gd" type="Script" id=7]
+[ext_resource path="res://src/map/grid/SpawningPoint.gd" type="Script" id=8]
+[ext_resource path="res://src/map/pawns/TestQuestGiver.tscn" type="PackedScene" id=9]
+[ext_resource path="res://src/map/pawns/TestQuestReceiver.tscn" type="PackedScene" id=10]
+
+[node name="GameBoard" type="TileMap"]
+tile_set = ExtResource( 2 )
+cell_size = Vector2( 80, 80 )
+format = 1
+script = ExtResource( 1 )
+
+[node name="SpawningPoint" type="Position2D" parent="." instance=ExtResource( 3 )]
+position = Vector2( 620, 610 )
+script = ExtResource( 8 )
+DRAW_COLOR = Color( 0.886275, 0.192157, 0.713726, 1 )
+
+[node name="Pawns" type="YSort" parent="."]
+script = ExtResource( 7 )
+party_scene = ExtResource( 4 )
+
+[node name="EncounterPawn" type="Area2D" parent="Pawns" groups=["interactive_pawns"] instance=ExtResource( 5 )]
+pause_mode = 2
+position = Vector2( 440, 600 )
+collision_layer = 4
+collision_mask = 2
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_group_": true
+}
+facing = {
+"down": false,
+"left": false,
+"right": false,
+"up": false
+}
+
+[node name="DialoguePawn" type="Area2D" parent="Pawns" groups=["interactive_pawns"] instance=ExtResource( 5 )]
+pause_mode = 2
+position = Vector2( 360, 360 )
+collision_layer = 4
+collision_mask = 2
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_group_": true
+}
+facing = {
+"down": false,
+"left": false,
+"right": false,
+"up": false
+}
+
+[node name="DialogueCombatPawn" type="Area2D" parent="Pawns" groups=["interactive_pawns"] instance=ExtResource( 5 )]
+pause_mode = 2
+position = Vector2( 1160, 600 )
+collision_layer = 4
+collision_mask = 2
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_group_": true
+}
+facing = {
+"down": true,
+"left": true,
+"right": true,
+"up": true
+}
+
+[node name="TestQuestGiver" type="Area2D" parent="Pawns" groups=["interactive_pawns"] instance=ExtResource( 9 )]
+pause_mode = 2
+position = Vector2( 1160, 200 )
+collision_layer = 4
+collision_mask = 2
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_group_": true
+}
+facing = {
+"down": true,
+"left": true,
+"right": true,
+"up": true
+}
+
+[node name="TestQuestReceiver" type="Area2D" parent="Pawns" groups=["interactive_pawns"] instance=ExtResource( 10 )]
+pause_mode = 2
+position = Vector2( 1330, 321.55 )
+collision_layer = 4
+collision_mask = 2
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_group_": true
+}
+facing = {
+"down": true,
+"left": true,
+"right": true,
+"up": true
+}

@@ -1,0 +1,107 @@
+[gd_scene load_steps=12 format=2]
+
+[ext_resource path="res://Assets/Buildings/Shop and Pokemon Center/宝可梦中心_FRLG.png" type="Texture" id=1]
+[ext_resource path="res://src/Godot-Pokemon-main/Player.tscn" type="PackedScene" id=3]
+[ext_resource path="res://src/Godot-Pokemon-main/Door.tscn" type="PackedScene" id=4]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 8, 88 )
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 106.031, 16.6751 )
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 9.06064, 16.0581 )
+
+[sub_resource type="RectangleShape2D" id=4]
+extents = Vector2( 54.0104, 7.49637 )
+
+[sub_resource type="RectangleShape2D" id=5]
+extents = Vector2( 59.7225, 7.4964 )
+
+[sub_resource type="RectangleShape2D" id=6]
+extents = Vector2( 54.4677, 15.9748 )
+
+[sub_resource type="RectangleShape2D" id=7]
+extents = Vector2( 87.903, 8.6335 )
+
+[sub_resource type="RectangleShape2D" id=8]
+extents = Vector2( 14.364, 23.1292 )
+
+[node name="PlayerHomeFloor1" type="Node2D"]
+scale = Vector2( 5, 5 )
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_left = -208.0
+margin_top = -207.646
+margin_right = 392.0
+margin_bottom = 392.354
+color = Color( 0, 0, 0, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+margin_left = -1.52588e-05
+margin_top = 0.707108
+margin_right = 240.0
+margin_bottom = 148.707
+texture = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+collision_layer = 2
+collision_mask = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 5.78859, 83.4038 )
+shape = SubResource( 1 )
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 233.588, 72.0901 )
+shape = SubResource( 1 )
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 120.042, 17.636 )
+shape = SubResource( 2 )
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 23.2649, 105.054 )
+shape = SubResource( 3 )
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 187.265, 152.707 )
+shape = SubResource( 4 )
+
+[node name="CollisionShape2D6" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 46.1421, 152.354 )
+shape = SubResource( 5 )
+
+[node name="CollisionShape2D7" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 119.986, 47.6949 )
+shape = SubResource( 6 )
+
+[node name="CollisionShape2D8" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 103.875, 32.2218 )
+shape = SubResource( 7 )
+
+[node name="CollisionShape2D9" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 192.617, 104.347 )
+shape = SubResource( 8 )
+
+[node name="YSort" type="YSort" parent="."]
+
+[node name="Player" parent="YSort" instance=ExtResource( 3 )]
+position = Vector2( 160, 80 )
+
+[node name="Door" parent="." instance=ExtResource( 4 )]
+modulate = Color( 0.12549, 0.313726, 0.85098, 1 )
+position = Vector2( 111.023, 145.768 )
+next_scene_path = "res://src/Godot-Pokemon-main/Town.tscn"
+is_invisible = true
+spawn_location = Vector2( -105, 221 )
+spawn_direction = Vector2( 0, 1 )
+
+[editable path="Door"]

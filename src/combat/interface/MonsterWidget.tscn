@@ -1,0 +1,41 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends HBoxContainer
+
+var monster : Battler
+
+func _ready():
+	monster.stats.connect(\"health_changed\", self, \"update_health\")
+	monster.stats.connect(\"health_depleted\", self, \"on_health_depleted\")
+	update_health(monster.stats.health)
+
+func update_health(health):
+	$Life.text = \"%d/%d\" % [health, monster.stats.max_health]
+
+func on_health_depleted():
+	queue_free()
+"
+
+[node name="MonsterWidget" type="HBoxContainer"]
+margin_right = 594.0
+margin_bottom = 23.0
+script = SubResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Name" type="Label" parent="."]
+margin_top = 4.0
+margin_right = 64.0
+margin_bottom = 18.0
+text = "Porcupine"
+
+[node name="Life" type="Label" parent="."]
+margin_left = 68.0
+margin_top = 4.0
+margin_right = 594.0
+margin_bottom = 18.0
+size_flags_horizontal = 3
+text = "85/120"
+align = 2

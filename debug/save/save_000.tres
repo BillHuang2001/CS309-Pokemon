@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://src/main/save/SaveGame.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+game_version = "0.3.0"
+data = {
+"party_member_Godette": {
+"experience": 0,
+"health": 68,
+"mana": 7
+},
+"party_member_Robi": {
+"experience": 0,
+"health": 68,
+"mana": 7
+}
+}

@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/combat/interface/turn_order/TurnOrder.gd" type="Script" id=1]
+
+[node name="TurnOrder" type="Control"]
+anchor_right = 1.0
+margin_bottom = 104.0
+rect_min_size = Vector2( 0, 176 )
+script = ExtResource( 1 )
+
+[node name="CombatPortraits" type="HBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = 88.0
+alignment = 1
