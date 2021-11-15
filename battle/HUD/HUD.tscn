@@ -16,9 +16,10 @@ anchor_left = 0.5
 anchor_top = 1.0
 anchor_right = 0.5
 anchor_bottom = 1.0
-margin_left = -512.0
+margin_left = -528.0
 margin_top = -187.0
-margin_right = 512.0
+margin_right = 536.0
+margin_bottom = 5.0
 texture = ExtResource( 3 )
 expand = true
 __meta__ = {
@@ -37,23 +38,23 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Actions" type="GridContainer" parent="Bar"]
+[node name="Actions" type="GridContainer" parent="."]
 anchor_left = 1.0
 anchor_top = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
 margin_left = -424.0
-margin_top = -144.0
+margin_top = -155.0
 margin_right = -15.0
-margin_bottom = -15.0
+margin_bottom = -35.0
 columns = 2
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Button1" type="Button" parent="Bar/Actions"]
+[node name="Button1" type="Button" parent="Actions"]
 margin_right = 202.0
-margin_bottom = 62.0
+margin_bottom = 58.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "Fight"
@@ -61,10 +62,10 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Button2" type="Button" parent="Bar/Actions"]
+[node name="Button2" type="Button" parent="Actions"]
 margin_left = 206.0
 margin_right = 408.0
-margin_bottom = 62.0
+margin_bottom = 58.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "RUN"
@@ -72,19 +73,19 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Button3" type="Button" parent="Bar/Actions"]
-margin_top = 66.0
+[node name="Button3" type="Button" parent="Actions"]
+margin_top = 62.0
 margin_right = 202.0
-margin_bottom = 128.0
+margin_bottom = 120.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "Button 3"
 
-[node name="Button4" type="Button" parent="Bar/Actions"]
+[node name="Button4" type="Button" parent="Actions"]
 margin_left = 206.0
-margin_top = 66.0
+margin_top = 62.0
 margin_right = 408.0
-margin_bottom = 128.0
+margin_bottom = 120.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "Button 4"
