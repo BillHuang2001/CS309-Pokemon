@@ -80,6 +80,7 @@ extents = Vector2( 8, 8 )
 collision_layer = 8
 collision_mask = 0
 script = ExtResource( 2 )
+next_scene_path = "res://src/Godot-Pokemon-main/Town.tscn"
 
 [node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 1 )

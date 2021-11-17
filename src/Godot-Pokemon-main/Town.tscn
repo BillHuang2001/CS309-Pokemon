@@ -1341,6 +1341,11 @@ shape = SubResource( 2 )
 [node name="StartCombat" parent="GameBoard/YSort/Pawns/EncounterPawn/Actions" index="0" instance=ExtResource( 21 )]
 formation = ExtResource( 17 )
 
+[node name="teleport" parent="GameBoard/YSort" instance=ExtResource( 8 )]
+visible = false
+position = Vector2( 80.2001, -78.9998 )
+next_scene_path = "res://src/map/Liyuan.tscn"
+
 [editable path="GameBoard/YSort/OaksLab"]
 [editable path="GameBoard/YSort/OaksLab/Door"]
 [editable path="GameBoard/YSort/PokemonCenter"]
