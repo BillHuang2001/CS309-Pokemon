@@ -29,16 +29,16 @@ func unload_party_screen():
 func _unhandled_input(event):
 	match screen_loaded:
 		ScreenLoaded.NOTHING:
-			if event.is_action_pressed("ui_accept"):
-				var player = get_node("/root/Game/LocalMap/CurrentScene").get_children().back().find_node("Player")
+			if event.is_action_pressed("x"):
+				var player = get_node("/root/Game/CurrentScene").get_children().back().find_node("Player")
 				if !player.is_moving:
 					player.set_physics_process(false)
 					menu.visible = true
 					screen_loaded = ScreenLoaded.JUST_MENU
 		
 		ScreenLoaded.JUST_MENU:
-			if event.is_action_pressed("ui_accept") or event.is_action_pressed("x"):
-				var player = get_node("/root/Game/LocalMap/CurrentScene").get_children().back().find_node("Player")
+			if  event.is_action_pressed("x"):
+				var player = get_node("/root/Game/CurrentScene").get_children().back().find_node("Player")
 				player.set_physics_process(true)
 				menu.visible = false
 				screen_loaded = ScreenLoaded.NOTHING

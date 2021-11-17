@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fire_scroll.png-c3194387ff4c4a983153505fc8c60681.stex"
+path="res://.import/fire_scroll.png-eac16a01c67d5ea7313e5d2245764664.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/theme/icons/fire_scroll.png"
-dest_files=[ "res://.import/fire_scroll.png-c3194387ff4c4a983153505fc8c60681.stex" ]
+dest_files=[ "res://.import/fire_scroll.png-eac16a01c67d5ea7313e5d2245764664.stex" ]
 
 [params]
 

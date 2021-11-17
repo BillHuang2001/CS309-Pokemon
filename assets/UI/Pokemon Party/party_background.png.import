@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/party_background.png-d6838c533b1c50a7864a09e8f3ed7e2d.stex"
+path="res://.import/party_background.png-735f20bb6924d1e22df2933dfccd805e.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/UI/Pokemon Party/party_background.png"
-dest_files=[ "res://.import/party_background.png-d6838c533b1c50a7864a09e8f3ed7e2d.stex" ]
+dest_files=[ "res://.import/party_background.png-735f20bb6924d1e22df2933dfccd805e.stex" ]
 
 [params]
 

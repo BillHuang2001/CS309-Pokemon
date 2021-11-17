@@ -3,7 +3,7 @@ extends PawnActor
 class_name PawnFollower
 
 
-func _on_target_Pawn_moved(last_position, current_position):
+func _on_target_Pawn_moved(last_position):
 	follow(last_position)
 
 

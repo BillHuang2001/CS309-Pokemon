@@ -496,7 +496,7 @@ parameters/Walk/blend_position = Vector2( 0, 0 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
 current = true
-zoom = Vector2( 4, 4 )
+zoom = Vector2( 2, 2 )
 
 [node name="BlockingRayCast2D" type="RayCast2D" parent="."]
 position = Vector2( 8, 8 )
@@ -509,7 +509,7 @@ cast_to = Vector2( 0, 8 )
 collision_mask = 4
 
 [node name="DoorRayCast2D" type="RayCast2D" parent="."]
-position = Vector2( 8, 8 )
+position = Vector2( 6, -4 )
 cast_to = Vector2( 0, 8 )
 collision_mask = 8
 collide_with_areas = true

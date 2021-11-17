@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pikachu.png-7fa8f1305c4358c11592f6d6d51dc523.stex"
+path="res://.import/Pikachu.png-e219ee3789d277d178fc6c0cdb79a1b6.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Pokemon/Pikachu.png"
-dest_files=[ "res://.import/Pikachu.png-7fa8f1305c4358c11592f6d6d51dc523.stex" ]
+dest_files=[ "res://.import/Pikachu.png-e219ee3789d277d178fc6c0cdb79a1b6.stex" ]
 
 [params]
 

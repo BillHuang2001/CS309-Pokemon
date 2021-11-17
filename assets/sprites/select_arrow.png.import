@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/select_arrow.png-c83bc4c1e091c2300ee997cea3cb4158.stex"
+path="res://.import/select_arrow.png-5d178350ce7f28b567639401fad96055.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/select_arrow.png"
-dest_files=[ "res://.import/select_arrow.png-c83bc4c1e091c2300ee997cea3cb4158.stex" ]
+dest_files=[ "res://.import/select_arrow.png-5d178350ce7f28b567639401fad96055.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass2_tileset.png-86c27278b30bb8879058c7d68f71bb92.stex"
+path="res://.import/grass2_tileset.png-1986e13f4c4402e09c50c408d881b96f.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/tilesets/grass2_tileset.png"
-dest_files=[ "res://.import/grass2_tileset.png-86c27278b30bb8879058c7d68f71bb92.stex" ]
+dest_files=[ "res://.import/grass2_tileset.png-1986e13f4c4402e09c50c408d881b96f.stex" ]
 
 [params]
 

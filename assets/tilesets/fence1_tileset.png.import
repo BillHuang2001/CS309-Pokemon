@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fence1_tileset.png-0756b8309b1072341a368335c44415c4.stex"
+path="res://.import/fence1_tileset.png-c68fac5f1cee3001728abd3aa4f92f7a.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/tilesets/fence1_tileset.png"
-dest_files=[ "res://.import/fence1_tileset.png-0756b8309b1072341a368335c44415c4.stex" ]
+dest_files=[ "res://.import/fence1_tileset.png-c68fac5f1cee3001728abd3aa4f92f7a.stex" ]
 
 [params]
 

@@ -104,11 +104,6 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://src/interface/game_over/GameOverInterface.gd"
 }, {
-"base": "",
-"class": "GitAPI",
-"language": "NativeScript",
-"path": "res://addons/godot-git-plugin/git_api.gdns"
-}, {
 "base": "MapAction",
 "class": "GiveQuestAction",
 "language": "GDScript",
@@ -289,7 +284,6 @@ _global_script_class_icons={
 "GUI": "",
 "GameBoard": "",
 "GameOverInterface": "",
-"GitAPI": "",
 "GiveQuestAction": "",
 "GrowthStats": "",
 "Hit": "",
@@ -352,10 +346,6 @@ window/stretch/aspect="keep"
 [editor_plugins]
 
 enabled=PoolStringArray( "rect_extents_gizmo" )
-
-[gdnative]
-
-singletons=[ "res://addons/godot-git-plugin/git_api.gdnlib" ]
 
 [input]
 

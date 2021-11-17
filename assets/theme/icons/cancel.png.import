@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cancel.png-6c53d3a330eaec6e35d19d35c16dd23e.stex"
+path="res://.import/cancel.png-5150f12cbb3c5907a590f0e9668e740a.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/theme/icons/cancel.png"
-dest_files=[ "res://.import/cancel.png-6c53d3a330eaec6e35d19d35c16dd23e.stex" ]
+dest_files=[ "res://.import/cancel.png-5150f12cbb3c5907a590f0e9668e740a.stex" ]
 
 [params]
 

@@ -7,7 +7,7 @@ class_name LocalMap
 signal enemies_encountered(formation)
 signal dialogue_finished
 
-onready var dialogue_box = $MapInterface/DialogueBox
+onready var dialogue_box = get_node("../../MapInterface/DialogueBox")
 onready var grid = $GameBoard
 
 

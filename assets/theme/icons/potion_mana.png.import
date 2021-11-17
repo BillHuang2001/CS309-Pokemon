@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/potion_mana.png-971bd8f72fb7093c69a886d951abc355.stex"
+path="res://.import/potion_mana.png-449c273952e2facb6a734e2139b4c9b3.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/theme/icons/potion_mana.png"
-dest_files=[ "res://.import/potion_mana.png-971bd8f72fb7093c69a886d951abc355.stex" ]
+dest_files=[ "res://.import/potion_mana.png-449c273952e2facb6a734e2139b4c9b3.stex" ]
 
 [params]
 

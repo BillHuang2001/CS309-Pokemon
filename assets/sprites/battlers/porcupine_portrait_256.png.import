@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/porcupine_portrait_256.png-d206ba99134510926e753a022ec23847.stex"
+path="res://.import/porcupine_portrait_256.png-a1412bc3f2808cdfb5aeda2a4ae00c23.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/battlers/porcupine_portrait_256.png"
-dest_files=[ "res://.import/porcupine_portrait_256.png-d206ba99134510926e753a022ec23847.stex" ]
+dest_files=[ "res://.import/porcupine_portrait_256.png-a1412bc3f2808cdfb5aeda2a4ae00c23.stex" ]
 
 [params]
 

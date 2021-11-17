@@ -1,14 +1,17 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=13 format=2]
 
 [ext_resource path="res://src/main/Game.gd" type="Script" id=1]
 [ext_resource path="res://src/party/Party.tscn" type="PackedScene" id=2]
-[ext_resource path="res://src/map/LocalMap.tscn" type="PackedScene" id=3]
+[ext_resource path="res://src/map/LocalMap.gd" type="Script" id=3]
 [ext_resource path="res://src/interface/gui/GUI.tscn" type="PackedScene" id=4]
 [ext_resource path="res://assets/shaders/TransitionColor.tscn" type="PackedScene" id=5]
 [ext_resource path="res://src/interface/game_over/GameOverInterface.tscn" type="PackedScene" id=6]
 [ext_resource path="res://assets/audio/bgm/battle_theme.ogg" type="AudioStream" id=7]
 [ext_resource path="res://src/main/MusicPlayer.gd" type="Script" id=8]
 [ext_resource path="res://src/interface/debug/DebugInterface.tscn" type="PackedScene" id=9]
+[ext_resource path="res://src/Godot-Pokemon-main/Town.tscn" type="PackedScene" id=10]
+[ext_resource path="res://src/interface/gui/DialogueBox.tscn" type="PackedScene" id=11]
+[ext_resource path="res://src/Godot-Pokemon-main/Menu.tscn" type="PackedScene" id=12]
 
 [node name="Game" type="Node"]
 script = ExtResource( 1 )
@@ -16,35 +19,11 @@ script = ExtResource( 1 )
 [node name="Party" parent="." instance=ExtResource( 2 )]
 position = Vector2( 29, 11 )
 
-[node name="LocalMap" parent="." instance=ExtResource( 3 )]
+[node name="CurrentScene" type="Node2D" parent="."]
 
-[node name="EncounterPawn" parent="LocalMap/GameBoard/Pawns" index="0"]
-facing = {
-"down": false,
-"left": false,
-"right": false,
-"up": false
-}
-
-[node name="DialoguePawn" parent="LocalMap/GameBoard/Pawns" index="1"]
-facing = {
-"down": false,
-"left": false,
-"right": false,
-"up": false
-}
-
-[node name="DialogueCombatPawn" parent="LocalMap/GameBoard/Pawns" index="2"]
-facing = {
-"down": true,
-"left": true,
-"right": true,
-"up": true
-}
-
-[node name="Menu" parent="LocalMap" index="3"]
-offset = Vector2( 800, 200 )
-transform = Transform2D( 1, 0, 0, 1, 800, 200 )
+[node name="Town" parent="CurrentScene" instance=ExtResource( 10 )]
+position = Vector2( 134, 98 )
+script = ExtResource( 3 )
 
 [node name="GUI" parent="." instance=ExtResource( 4 )]
 
@@ -74,10 +53,10 @@ anchor_left = -0.83
 anchor_top = -0.822
 anchor_right = 1.071
 anchor_bottom = 1.864
-margin_left = 241.6
-margin_top = -4.23999
-margin_right = 241.679
-margin_bottom = -4.12
+margin_left = 278.6
+margin_top = 0.76001
+margin_right = 278.679
+margin_bottom = 0.880005
 mouse_filter = 2
 
 [node name="GameOverInterface" parent="." instance=ExtResource( 6 )]
@@ -93,8 +72,15 @@ layer = 100
 [node name="DebugInterface" parent="Debug" instance=ExtResource( 9 )]
 visible = false
 
-[editable path="LocalMap"]
-[editable path="LocalMap/GameBoard/Pawns/EncounterPawn"]
-[editable path="LocalMap/GameBoard/Pawns/DialoguePawn"]
-[editable path="LocalMap/GameBoard/Pawns/DialogueCombatPawn"]
+[node name="Menu" parent="." instance=ExtResource( 12 )]
+offset = Vector2( 800, 200 )
+transform = Transform2D( 1, 0, 0, 1, 800, 200 )
+
+[node name="MapInterface" type="CanvasLayer" parent="."]
+pause_mode = 2
+layer = 100
+
+[node name="DialogueBox" parent="MapInterface" instance=ExtResource( 11 )]
+visible = false
+
 [editable path="GUI"]

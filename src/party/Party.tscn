@@ -26,6 +26,9 @@ growth = ExtResource( 3 )
 party_member = true
 turn_order_icon = ExtResource( 4 )
 
+[node name="Skin" parent="Godette/Battler" index="0"]
+modulate = Color( 1.14773, 1.14773, 1.14773, 1 )
+
 [node name="GodetteAnim" parent="Godette/Battler/Skin" index="2" instance=ExtResource( 5 )]
 
 [node name="LolliSlash" parent="Godette/Battler/Skills" index="0" instance=ExtResource( 6 )]

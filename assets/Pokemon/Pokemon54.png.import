@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pokemon54.png-483bc9ab3439a022ef916b33008f08aa.stex"
+path="res://.import/Pokemon54.png-f3adc6829da65211a2f7cbaf9f52f3fb.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Pokemon/Pokemon54.png"
-dest_files=[ "res://.import/Pokemon54.png-483bc9ab3439a022ef916b33008f08aa.stex" ]
+dest_files=[ "res://.import/Pokemon54.png-f3adc6829da65211a2f7cbaf9f52f3fb.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/actor.png-204242bd1c766a0c88f45df85f9f1b4f.stex"
+path="res://.import/actor.png-70942d2f9354b2c7b56d377f6674eda8.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/tilesets/grid/actor.png"
-dest_files=[ "res://.import/actor.png-204242bd1c766a0c88f45df85f9f1b4f.stex" ]
+dest_files=[ "res://.import/actor.png-70942d2f9354b2c7b56d377f6674eda8.stex" ]
 
 [params]
 

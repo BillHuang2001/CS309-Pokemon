@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=2]
 
-[ext_resource path="res://assets/buildings/Door Animations/house1.png" type="Texture" id=1]
+[ext_resource path="res://assets/Buildings/Door Animations/house1.png" type="Texture" id=1]
 [ext_resource path="res://src/Godot-Pokemon-main/Door.gd" type="Script" id=2]
 
 [sub_resource type="Animation" id=1]

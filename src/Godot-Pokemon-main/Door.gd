@@ -16,7 +16,7 @@ func _ready():
 	if is_invisible:
 		$Sprite.texture = null
 	sprite.visible = false
-	var player = get_node("/root/Game/LocalMap/CurrentScene").get_children().back().find_node("Player")
+	var player = get_node("/root/Game/CurrentScene").get_children().back().find_node("Player")
 	player.connect("player_entering_door_signal", self, "enter_door")
 	player.connect("player_entered_door_signal", self, "close_door")
 	

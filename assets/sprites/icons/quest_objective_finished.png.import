@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/quest_objective_finished.png-eb93d25508677ec78838e4a9690b29cf.stex"
+path="res://.import/quest_objective_finished.png-b733b5efbfb681968f43d1aed7495048.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/icons/quest_objective_finished.png"
-dest_files=[ "res://.import/quest_objective_finished.png-eb93d25508677ec78838e4a9690b29cf.stex" ]
+dest_files=[ "res://.import/quest_objective_finished.png-b733b5efbfb681968f43d1aed7495048.stex" ]
 
 [params]
 

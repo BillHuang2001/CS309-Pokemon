@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dialogue_balloon.png-a4fcd12f67f1a0a5ef70dd2e5488c3c3.stex"
+path="res://.import/dialogue_balloon.png-35ce30920ca9dec372fe073f0c3a31fe.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/dialogue_balloon.png"
-dest_files=[ "res://.import/dialogue_balloon.png-a4fcd12f67f1a0a5ef70dd2e5488c3c3.stex" ]
+dest_files=[ "res://.import/dialogue_balloon.png-35ce30920ca9dec372fe073f0c3a31fe.stex" ]
 
 [params]
 

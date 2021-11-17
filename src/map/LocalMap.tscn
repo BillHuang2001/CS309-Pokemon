@@ -1,100 +1,18 @@
-[gd_scene load_steps=18 format=2]
+[gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://src/map/LocalMap.gd" type="Script" id=1]
 [ext_resource path="res://src/Godot-Pokemon-main/Menu.tscn" type="PackedScene" id=2]
-[ext_resource path="res://assets/tilesets/grid/grid_tileset.tres" type="TileSet" id=3]
-[ext_resource path="res://src/map/grid/GameBoard.gd" type="Script" id=4]
-[ext_resource path="res://src/map/grid/SpawningPoint.tscn" type="PackedScene" id=5]
-[ext_resource path="res://src/map/grid/PawnContainer.gd" type="Script" id=6]
-[ext_resource path="res://src/party/Party.tscn" type="PackedScene" id=7]
-[ext_resource path="res://src/map/pawns/PawnInteractive.tscn" type="PackedScene" id=8]
-[ext_resource path="res://src/map/pawns/actions/StartCombatAction.tscn" type="PackedScene" id=9]
-[ext_resource path="res://src/combat/battlers/formations/PorcupineFormation001.tscn" type="PackedScene" id=10]
-[ext_resource path="res://src/map/pawns/actions/DialogueAction.tscn" type="PackedScene" id=11]
-[ext_resource path="res://src/map/pawns/TestQuestGiver.tscn" type="PackedScene" id=12]
-[ext_resource path="res://src/map/pawns/TestQuestReceiver.tscn" type="PackedScene" id=13]
 [ext_resource path="res://src/interface/gui/DialogueBox.tscn" type="PackedScene" id=14]
 [ext_resource path="res://src/Godot-Pokemon-main/Town.tscn" type="PackedScene" id=15]
 
-[sub_resource type="RectangleShape2D" id=1]
-extents = Vector2( 50, 50 )
-
-[sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 80, 80 )
-
 [node name="LocalMap" type="Node2D"]
 script = ExtResource( 1 )
-
-[node name="GameBoard" type="TileMap" parent="."]
-tile_set = ExtResource( 3 )
-cell_size = Vector2( 80, 80 )
-format = 1
-script = ExtResource( 4 )
-
-[node name="SpawningPoint" parent="GameBoard" instance=ExtResource( 5 )]
-position = Vector2( 620, 610 )
-
-[node name="Pawns" type="YSort" parent="GameBoard"]
-script = ExtResource( 6 )
-party_scene = ExtResource( 7 )
-
-[node name="EncounterPawn" parent="GameBoard/Pawns" instance=ExtResource( 8 )]
-position = Vector2( 440, 600 )
-facing = {
-"down": false,
-"left": false,
-"right": false,
-"up": false
-}
-
-[node name="CollisionShape2D" parent="GameBoard/Pawns/EncounterPawn" index="3"]
-shape = SubResource( 1 )
-
-[node name="StartCombat" parent="GameBoard/Pawns/EncounterPawn/Actions" index="0" instance=ExtResource( 9 )]
-formation = ExtResource( 10 )
-
-[node name="DialoguePawn" parent="GameBoard/Pawns" instance=ExtResource( 8 )]
-position = Vector2( 542, 203 )
-facing = {
-"down": false,
-"left": false,
-"right": false,
-"up": false
-}
-
-[node name="CollisionShape2D" parent="GameBoard/Pawns/DialoguePawn" index="3"]
-shape = SubResource( 2 )
-
-[node name="Dialogue" parent="GameBoard/Pawns/DialoguePawn/Actions" index="0" instance=ExtResource( 11 )]
-dialogue_file_path = "res://src/dialogue/data/test_conversation.json"
-
-[node name="DialogueCombatPawn" parent="GameBoard/Pawns" instance=ExtResource( 8 )]
-position = Vector2( 1160, 600 )
-facing = {
-"down": true,
-"left": true,
-"right": true,
-"up": true
-}
-
-[node name="Dialogue" parent="GameBoard/Pawns/DialogueCombatPawn/Actions" index="0" instance=ExtResource( 11 )]
-dialogue_file_path = "res://src/dialogue/data/test_conversation.json"
-
-[node name="StartCombat" parent="GameBoard/Pawns/DialogueCombatPawn/Actions" index="1" instance=ExtResource( 9 )]
-formation = ExtResource( 10 )
-
-[node name="TestQuestGiver" parent="GameBoard/Pawns" instance=ExtResource( 12 )]
-position = Vector2( 1160, 200 )
-
-[node name="TestQuestReceiver" parent="GameBoard/Pawns" instance=ExtResource( 13 )]
-position = Vector2( 1330, 321.55 )
 
 [node name="MapInterface" type="CanvasLayer" parent="."]
 pause_mode = 2
 layer = 100
 
 [node name="DialogueBox" parent="MapInterface" instance=ExtResource( 14 )]
-visible = false
 
 [node name="CurrentScene" type="Node2D" parent="."]
 
@@ -103,7 +21,3 @@ position = Vector2( 134, 98 )
 scale = Vector2( 3, 3 )
 
 [node name="Menu" parent="." instance=ExtResource( 2 )]
-
-[editable path="GameBoard/Pawns/EncounterPawn"]
-[editable path="GameBoard/Pawns/DialoguePawn"]
-[editable path="GameBoard/Pawns/DialogueCombatPawn"]

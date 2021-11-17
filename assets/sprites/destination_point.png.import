@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/destination_point.png-d08fb9d80133351599bdff8385bc423b.stex"
+path="res://.import/destination_point.png-1d0574dc6cd99da5fe5725a4d84b98a2.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/sprites/destination_point.png"
-dest_files=[ "res://.import/destination_point.png-d08fb9d80133351599bdff8385bc423b.stex" ]
+dest_files=[ "res://.import/destination_point.png-1d0574dc6cd99da5fe5725a4d84b98a2.stex" ]
 
 [params]
 

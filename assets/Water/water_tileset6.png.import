@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water_tileset6.png-09bb60296e8f86deec4695aeaa5d3d69.stex"
+path="res://.import/water_tileset6.png-7b3aba7e0ce2f55f7d9c1f3356049854.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://assets/Water/water_tileset6.png"
-dest_files=[ "res://.import/water_tileset6.png-09bb60296e8f86deec4695aeaa5d3d69.stex" ]
+dest_files=[ "res://.import/water_tileset6.png-7b3aba7e0ce2f55f7d9c1f3356049854.stex" ]
 
 [params]
 

@@ -7,7 +7,8 @@ var next_scene = null
 
 const combat_arena_scene = preload("res://src/combat/CombatArena.tscn")
 onready var transition = $Overlays/TransitionColor
-onready var local_map = $LocalMap
+onready var current_scene = $CurrentScene
+onready var local_map = current_scene.get_children().back()
 onready var party = $Party as Party
 onready var music_player = $MusicPlayer
 onready var game_over_interface := $GameOverInterface
@@ -63,7 +64,7 @@ func enter_other_scene(new_scene,spawn_location,spawn_direction):
 	$LocalMap/CurrentScene.get_child(0).queue_free()
 	$LocalMap/CurrentScene.add_child(load(next_scene).instance())
 			
-	var player = get_node("/root/Game/LocalMap/CurrentScene").get_children().back().find_node("Player")
+	var player = get_node("/root/Game/CurrentScene").get_children().back().find_node("Player")
 	player.set_spawn(player_location, player_direction)
 
 	yield(transition.fade_from_color(), "completed")
@@ -79,10 +80,9 @@ func enter_battle(formation: Formation):
 
 	transitioning = true
 	yield(transition.fade_to_color(), "completed")
-
-	remove_child(local_map)
+	current_scene.remove_child(local_map)
 	combat_arena = combat_arena_scene.instance()
-	add_child(combat_arena)
+	current_scene.add_child(combat_arena)
 	combat_arena.connect("victory", self, "_on_CombatArena_player_victory")
 	combat_arena.connect("game_over", self, "_on_CombatArena_game_over")
 	combat_arena.connect(
@@ -106,7 +106,7 @@ func _on_CombatArena_battle_completed(arena):
 	yield(transition.fade_to_color(), "completed")
 	combat_arena.queue_free()
 
-	add_child(local_map)
+	current_scene.add_child(local_map)
 	yield(transition.fade_from_color(), "completed")
 	transitioning = false
 	music_player.stop()
